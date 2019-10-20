@@ -1,6 +1,8 @@
 # first-degree-thesis
 Questions, thoughts, FAQ, guidelines.
 
+Disclaimer - Most of these are advices from experiences and not hard-written rules by any measure.
+
 ## What, Where, How, Why, and When
 
 ### What is a First Degree Thesis(FDT)? What happens in this thesis? What are the options? 
@@ -52,9 +54,25 @@ You should be aware of the domain you want to have your thesis in. It can be a r
 
 ~ Need time ~
 
-### What do I write in my email? What do I avoid?  
+### What do I write in my email? What do I avoid? 
 
-~ Need time ~
+#### DOs.
+
+First paragraph(4 - 6 sentences) : Talk about what are you studying and which year are you in. Write about your motives for writing this email. What kind of research position. How this is part of your thesis. How long do you want to commit for. Whether you plan to pursue research/PhD after this. Whether you can join the lab full time after this position. **Attach Google drive link to your CV here.**
+
+Second paragraph(4 - 6 sentences) : Talk about the professor's work. How did you find their work. How did you like the work. What was interesting about it. What ideas did this bring in your head. Can you improve upon that work. How does this work relate your own work experience and projects. How can you contribute to their work. 
+
+Write about your work and describe in brief what work you have done. Describe your current and past work. 
+
+Write about what are other good skills like working hard, reading papers, how you are driven, etc. Close with what makes you confident that you can contribute.
+
+#### DONTs.
+
+* Don't write a very long email.
+* Do not attach CV as a regular attachment because the university server might mark it spam and filter it out.
+* Do not add trackers to the email because the university firewall might mark your email spam.
+* Do not email everyday or every other day. Allow 7-10 days before sending a reminder. Everyone is really busy. Trust me on this one.
+* Do not falsify reality and claim things. Be generous in descriptions but faking it can land you into a lab with expectations that you won't be able to meet.
 
 ### What is the process flow? 
 
