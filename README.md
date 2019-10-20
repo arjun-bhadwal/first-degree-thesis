@@ -87,6 +87,8 @@ You have to browse through the university websites to look for departments, rese
 
 A funded thesis is definitely possible and has been pursued by a lot of people in the past. General rule of thumb for a funded thesis is that you have to be a little bit lucky, a little bit smart, and very good at doing what you do. Since funding is an investment by the lab into a young inexperienced researcher from undergrad education, a longer thesis period is preferable for better funding opportunities. In this way, the laboratory can gain from the student's contribution in long term after the first 2 - 3 months of training/acclamatization. 
 
+~ Second part needs time ~
+
 ### Thesis vs PS?
 
 ~ Need time ~
