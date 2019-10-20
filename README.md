@@ -113,3 +113,7 @@ A funded thesis is definitely possible and has been pursued by a lot of people i
 
 ~ Need time ~
 
+### Does not having publications affect our chances for off-campus thesis considerably?
+
+### Does having worked on a single project for a long time leaves a better impression than having worked on more projects for a short period of time?
+
