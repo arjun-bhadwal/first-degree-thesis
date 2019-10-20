@@ -1,9 +1,9 @@
 # first-degree-thesis
 Questions, thoughts, FAQ, guidelines.
 
-## What, Where, Why, When, and How
+## What, Where, How, Why, and When
 
-#### What is a First Degree Thesis(FDT)? What happens in this thesis? What are the options? 
+### What is a First Degree Thesis(FDT)? What happens in this thesis? What are the options? 
 
 A Thesis or a First Degree Thesis(FDT) can be considered a thorough project report. A thesis, unlike a project, begins with an objective that can be shaped and transformed.
 Sometimes, you hypothesise something and set out to prove or disprove your hypothesis, and other times, you decide to achieve something like a project. The detailed report of your approach, mathematics behind it, experimental setup, results, et cetera consists your thesis report.
