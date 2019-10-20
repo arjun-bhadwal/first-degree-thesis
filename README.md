@@ -11,12 +11,12 @@ Sometimes, you hypothesise something and set out to prove or disprove your hypot
 At BITS Pilani, more specifically, BPHC, there are two kinds of theses available viz On-campus and Off-campus theses. These can be done in one semester or in both semesters for dual degree students.
 
 
-#### Where can I do a FD Thesis? 
+### Where can I do a FD Thesis? 
 
 You can do FDT in either a educational research institution(universities, research centers, laboratories, BPHC, et cetera) or a corporate research institution(Microsoft Research, Fabrication Labs, R&D Teams, et cetera).
 
 
-#### How do I get around to doing it? 
+### How do I get around to doing it? 
 
 1. You have to decide if you want to do a thesis - Not easy.
 2. Which semester can you do this - Easy.
@@ -27,36 +27,36 @@ You can do FDT in either a educational research institution(universities, resear
 7. Fill a few forms. 
 8. BEGIN DIFFICULT RESEARCH LIFE.
 
-#### Why should I do it?
+### Why should I do it?
 
 ~ Need time ~
 
 
 
-#### When should I do it? Which semester? What are the requirements? 
+### When should I do it? Which semester? What are the requirements? 
 
 You can do your thesis in place of your PS(either semester), but you need to have finished your CDCs before you can take up thesis. Any NCs in CDCs need to be cleared. If you have Disp Electives remaining, for an on-campus thesis, you can take upto 6 extra credits for finishing up your graduation requirements. For an off-campus thesis, you cannot do any courses at all, so, off-campus thesis is the only course you will register for in ERP. Make sure you finish your graduation requirements when planning for thesis.
 
 
 
-##### Is this for me? Why should I do it? How can it help me? 
+### Is this for me? Why should I do it? How can it help me? 
 
 This question is best answered by asking yourself if research is something that can add to your life. A research experience can be useful if trying to find more academic positions in the future including PhD, Research Assistant, etc. Even for a Master's admit, a research experience from your thesis is a strong indicator of your determination to pursue your subject.
 
-##### How do I start applying? 
+### How do I start applying? 
 
 You should be aware of the domain you want to have your thesis in. It can be a rough idea and being exploratory and experimental with it is encouraged at undergrad level. Now, first thing would be to identify whether you can find this work in a lab or a company. Once you do, you have to approach the professors, supervisors accordingly. You have to look through University websites and look at professor's work to get an insight into whether the particular lab seems like a good fit. You can then go ahead and email the professor/supervisor. The template of the email can vary from student to student but I would suggest you look at the question 'What do I write in my email? What do I avoid?'
 
 
-##### How should I divide my double thesis?
+### How should I divide my double thesis?
 
 ~ Need time ~
 
-##### What do I write in my email? What do I avoid?  
+### What do I write in my email? What do I avoid?  
 
 ~ Need time ~
 
-##### What is the process flow? 
+### What is the process flow? 
 
 In the process flow of thesis, 
 
@@ -71,23 +71,23 @@ B. BPHC Machinery
 4. Inform Practice School Division of your motives and fill Part-A and Part-B of the form to transfer from PS - TS. You might be asked for offer letter in this step. This needs approval from PSD.
 5. Inform your department and obtain Form-A and Form-B for applying for thesis. You might be asked for offer letter in this step. This needs approval from Department Research Committee. 
 
-##### When to send the emails for First semester or Second semester? 
+### When to send the emails for First semester or Second semester? 
 
 For a First Semester thesis, emailing from mid-November onwards is a good choice. You can expect replies even if you apply by January but in my opinion, earlier than November and later than February do not leave room for appointment of new researchers for fall because being early means the position is not even available yet or the funding to support the researcher hasn't been granted yet. 
 
 Accordingly, for Second semester thesis, begin in summers(June, July) or Fall(August).
 
-##### How do I find the professors?
+### How do I find the professors?
 
 You have to browse through the university websites to look for departments, research groups, research labs, research centers, etc. 
 
-##### Should I opt for better University or better Professor profile?
+### Should I opt for better University or better Professor profile?
 
-##### Can I get a funded thesis and if yes, How? If I don't get funded, should I go anyway?
+### Can I get a funded thesis and if yes, How? If I don't get funded, should I go anyway?
 
 A funded thesis is definitely possible and has been pursued by a lot of people in the past. General rule of thumb for a funded thesis is that you have to be a little bit lucky, a little bit smart, and very good at doing what you do. Since funding is an investment by the lab into a young inexperienced researcher from undergrad education, a longer thesis period is preferable for better funding opportunities. In this way, the laboratory can gain from the student's contribution in long term after the first 2 - 3 months of training/acclamatization. 
 
-##### Thesis vs PS?
+### Thesis vs PS?
 
 ~ Need time ~
 
